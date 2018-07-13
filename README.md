@@ -40,6 +40,12 @@ module.exports = {
 
 And then you will have your own firebase setup.
 
+## Articles:
+
+[Ember vs React— the ultimate battle (Round 1)](https://medium.com/buildempire/ember-vs-react-the-ultimate-battle-round-1-dcc034bc725d)
+
+[Ember vs React - Round 2](https://medium.com/buildempire/ember-vs-react-round-2-f07b07f49bb9)
+
 
 
 
