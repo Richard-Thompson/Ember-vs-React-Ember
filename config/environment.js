@@ -1,7 +1,3 @@
-'use strict';
-const firebase = require('./firebase');
-
-
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'ember-movie-list',
